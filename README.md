@@ -1,6 +1,7 @@
 # Sistema
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
+npm install --save-dev electron
+npm i electron-builder
 
 Using the Electron framework to generate desktop application
 
